@@ -1,4 +1,4 @@
-library epubx;
+library epubx_fork_nequam;
 
 export 'src/utils/enum_from_string.dart';
 
