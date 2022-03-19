@@ -1,8 +1,15 @@
-# epubx
+# epubx_nequam_fork
 
-It package is [dart-epub](https://github.com/orthros/dart-epub) fork
+You shouldn't use this package. This is purely me trying to figure out what is breaking flutterflow.io a friend oe mine is using.
+Most of my changes are on the alpha branch right now.  I am following all of Google's instructions for making everything the latest
+stuff they have.
 
+It package is [dart-epub](https://github.com/nequam/epubx.dart) fork
+
+This is a better one to use:
 [Flutter UI implementation](https://pub.dev/packages/epub_view)
+
+The one I am munging at: https://github.com/nequam/epub_view
 
 Epub Reader and Writer for Dart inspired by [this fantastic C# Epub Reader](https://github.com/versfx/EpubReader)
 
@@ -13,7 +20,7 @@ This does not rely on the ```dart:io``` package in any way, so it is avilable fo
 Add the package to the ```dependencies``` section of your pubspec.yaml
 ```
 dependencies:
-  epubx: any
+  epubx_nequam_fork: any
 ```
 
 ## Example

@@ -2,7 +2,7 @@ library epubreadertest;
 
 import 'dart:io' as io;
 
-import 'package:epubx/epub.dart';
+import 'package:epubx_nequam_fork/epubx_nequam_fork.dart';
 import 'package:path/path.dart' as path;
 import 'package:test/test.dart';
 

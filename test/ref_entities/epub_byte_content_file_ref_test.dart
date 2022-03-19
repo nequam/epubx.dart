@@ -1,8 +1,8 @@
 library epubreadertest;
 
 import 'package:archive/archive.dart';
-import 'package:epubx/epub.dart';
-import 'package:epubx/src/ref_entities/epub_byte_content_file_ref.dart';
+import 'package:epubx_nequam_fork/epubx_nequam_fork.dart';
+import 'package:epubx_nequam_fork/src/ref_entities/epub_byte_content_file_ref.dart';
 import 'package:test/test.dart';
 
 main() async {

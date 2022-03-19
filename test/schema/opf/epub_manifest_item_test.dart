@@ -1,6 +1,6 @@
 library epubreadertest;
 
-import 'package:epubx/src/schema/opf/epub_manifest_item.dart';
+import 'package:epubx_nequam_fork/src/schema/opf/epub_manifest_item.dart';
 import 'package:test/test.dart';
 
 main() async {
